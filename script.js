@@ -14,12 +14,19 @@ $(document).ready(function(){
             async:false,
             dataType: "json", 
             success: function(data){
-                console.log(url);
+                // get heading ->  console.log(data[1][0]);
+                // get description ->  console.log(data[2][0]);
+                // get link ->  console.log(data[3][0]);
+                // loop through the search results and build up a list with the title being a link to the wikipedia page. Also displays a paragraph with a short descrition of the search result. 
+                for (var i=0; i<data[1].length; i++) {
+                    $('#dataDisplay').append("<li><a href= " + data[3][i] + ">" + data[1][i] + "</a><p>" + data[2][i] + "</p></li>");
+                    
+                }
+                
             }, 
             error: function(errMessage){
                 alert("Error" + errMessage);
             }
-        })        
-        
+        }) ;       
     });
 });
