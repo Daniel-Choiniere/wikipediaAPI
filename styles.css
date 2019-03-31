@@ -5,6 +5,12 @@ body {
 
 .list {
     list-style: none;
+    text-align: left;
+    font-family: 'Cinzel', serif;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
 }
 
 a {
