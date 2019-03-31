@@ -5,29 +5,30 @@
     <title>Wikipedia Search</title>
     <meata charset="UTF-8">
     <meta http-equiv="x-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>-->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">-->
     <link rel="stylesheet" href="styles.css" type="text/css">
 </head>
 
 <body>
-    <img src="https://images.pexels.com/photos/1097946/pexels-photo-1097946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">
-    <img src="https://images.pexels.com/photos/1099296/pexels-photo-1099296.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">
-    <img src="https://images.pexels.com/photos/843700/pexels-photo-843700.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">
-    <img src="https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">
+    <!--<img src="https://images.pexels.com/photos/1097946/pexels-photo-1097946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">-->
+    <!--<img src="https://images.pexels.com/photos/1099296/pexels-photo-1099296.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Smiley face" height="225" width="263">-->
  
     <h1>Search for Wikipedia Articles</h1>
     
     <div>
         <input type="text" id="wikiSearch">
-        <button id="wikiSearch">Search</button>
+        <button id="wikiSearchButton">Search</button>
                 
         <h2>Search Results</h2>
         
-        <div id="dataDisplay"></div>
+        <ul id="dataDisplay">
+            
+            
+        </ul>
     </div>
     
-    </br>
-    </br>
-    
-    <script src="converter.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
