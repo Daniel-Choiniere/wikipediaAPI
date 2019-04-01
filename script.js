@@ -31,7 +31,7 @@ $(document).ready(function() {
                 // loop through the search results and build up a list with the title being a link to the wikipedia page. Also displays a paragraph with a short descrition of the search result. 
                 $('#titleDisplay').append("Search Results");
                 for (var i = 0; i < data[1].length; i++) {
-                    $('#dataDisplay').append("<li class='list'><a href= " + data[3][i] + ">" + data[1][i] + "</a><p>" + data[2][i] + "</p></li>");
+                    $('#dataDisplay').append("<li class='list'><a target='blank' href= " + data[3][i] + ">" + data[1][i] + "</a><p>" + data[2][i] + "</p></li>");
                 }
                 $('#wikiSearch').val('');
             },
