@@ -1,8 +1,7 @@
 /*global $*/
 
 // allows the user to hit enter key on keyboard instead of having to press the submit button 
-var input = document.getElementById("wikiSearch");
-input.addEventListener("keyup", function(event) {
+$("#wikiSearch").keypress(function(event) {
     // Number 13 is the "Enter" key on the keyboard
     if (event.keyCode === 13) {
         // Cancel the default action, if needed
@@ -34,6 +33,7 @@ $(document).ready(function() {
                 for (var i = 0; i < data[1].length; i++) {
                     $('#dataDisplay').append("<li class='list'><a href= " + data[3][i] + ">" + data[1][i] + "</a><p>" + data[2][i] + "</p></li>");
                 }
+                $('#wikiSearch').val('');
             },
             error: function(errMessage) {
                 alert("Error" + errMessage);

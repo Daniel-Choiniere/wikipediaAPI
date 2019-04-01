@@ -1,0 +1,23 @@
+Script started on Sun 31 Mar 2019 08:54:53 PM UTC
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git oush[K[K[K[Kpush
+Warning: Permanently added 'github.com,192.30.253.112' (RSA) to the list of known hosts.
+Everything up-to-date
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ [K[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ 
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ [K[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git add -A 
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git commit -m ""a"d"d"e"d" "s"o"m"e" "s" M[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct""y"l"i"n"g" "[1P" "[1P"[1P"[1P"[1P"[1P"[1P"M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P" "f" M[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co""n"t" "s"t"y"l"i"n"g" "a"n"d" "r"e"m"o"b"[1P"v"e"d" "s"o"m"e" "t"e"x"t" "a"n"d" "l"s"i"t"[1P"[1P"[1P"i"s"t" "d"e"c"o"r"a"t"i"o"n"
+[master 50e246a] added some font styling and removed some text and list decoration
+ 4 files changed, 39 insertions(+), 20 deletions(-)
+ create mode 100644 added
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git poush[K[K[K[Kushg[K
+Warning: Permanently added 'github.com,192.30.253.112' (RSA) to the list of known hosts.
+Counting objects: 6, done.
+Delta compression using up to 8 threads.
+Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 1.09 KiB | 1.09 MiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:Daniel-Choiniere/wikipediaAPI.git
+   11eca4d..50e246a  master -> master
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ [K[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git add -A
+[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (master) $ git commit -m :[K""a"d"[1P"[1P"m"o"r"e" "f"o"n"t" "s"t"y"l"i"n"g" "[1P" "t"o" "r"[1P"s"[1P"s"e"a"r"c" "[1P"[1P"c"h" " M[01;32mliftedresearch[00m:[01;34m~/workspace/javascript101/wikipediaAPI[00m (
